@@ -1,0 +1,9 @@
+appVersion: v1
+kind: Service
+metadata:
+  name: gihyo
+spec:
+  type: ExternalName
+  externalName: gihyo.jp
+
+  
